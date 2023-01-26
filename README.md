@@ -1,4 +1,4 @@
-# Desafío 18: Testeamos nuestra API REST
+# Desafío 17: Testeamos nuestra API REST
 
 - Se implementa test con mocha para api de productos.
 - Refactor:
